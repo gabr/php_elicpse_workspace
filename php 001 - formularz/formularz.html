@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>formularz</title>
+</head>
+<body>
+  <form action="przetworzzamowienie.php" method=post>
+    <table>
+      <tr id="naglowek">
+        <td>Produkt</td>
+        <td>Ilość</td>
+      </tr>
+      <tr>
+        <td>Opony</td>
+        <td><input type="text" name="iloscopon" maxlength="3" /></td>
+      </tr>
+      <tr>
+        <td>Olej</td>
+        <td><input type="text" name="iloscoleju" maxlength="3" /></td>
+      </tr>
+      <tr>
+        <td>Świece Zapłonowe</td>
+        <td><input type="text" name="iloscswiec" maxlength="3" /></td>
+      </tr>
+      <tr>
+        <td>Skąd znasz tą strone?</td>
+        <td><select name="skad">
+            <option value = "a">Z INTERNETU!!!
+            <option value = "b">od wujka ... google
+            <option value = "c">czysty random
+        </select></td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center"><input id="przycisk"
+          type="submit" value="Złóż zamówienie" /></td>
+      </tr>
+    </table>
+  </form>
+</body>
+</html>

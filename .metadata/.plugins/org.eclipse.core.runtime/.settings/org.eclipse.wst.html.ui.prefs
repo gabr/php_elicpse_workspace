@@ -1,0 +1,19 @@
+commentBorder=\#7F9F7F | null | false | false | false | false
+commentText=\#7F9F7F | null | false | false | false | false
+declBoder=\#DFBE95 | null | false | false | false | false
+doctypeExternalId=\#DFBE95 | null | false | false | false | false
+doctypeExternalPubref=\#DFBE95 | null | false | false | false | false
+doctypeExtrenalSysref=\#DFBE95 | null | false | false | false | false
+doctypeName=\#DFBE95 | null | false | false | false | false
+eclipse.preferences.version=1
+entityReference=\#EFEFAF | null | false | false | false | false
+html_content_assist_default_page_sort_order=org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000
+html_content_assist_own_page_sort_order=org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000
+newFileTemplateName=New HTML File (4.01 transitional)
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+tagAttributeEquals=\#F6F3E8 | null | false | false | false | false
+tagAttributeName=\#B3B784 | null | false | false | false | false
+tagAttributeValue=\#CC9393 | null | false | false | false | false
+tagBorder=\#D4C4A9 | null | false | false | false | false
+tagName=\#D4C4A9 | null | false | false | false | false
+xmlContent=\#F6F3E8 | null | false | false | false | false
