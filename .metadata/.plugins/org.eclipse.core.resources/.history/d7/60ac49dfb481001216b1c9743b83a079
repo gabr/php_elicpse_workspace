@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+
+#strona {
+  border: 2px solid black;
+  width: 906px;
+  height: 900px;
+  margin: 0 auto;
+  background-color: #aaa;
+}
+
+#lewa {
+  border: 1px solid red;
+  width: 440px;
+  height: 900px;
+  float: left;
+  background-color: yellow;
+}
+
+#prawa {
+  border: 1px solid red;
+  width: 440px;
+  height: 900px;
+  float: left;
+  background-color: blue;
+}
+
+#przycisk {
+  border: 1px solid red;
+  width: 20px;
+  height: 900px;
+  float: left;
+  background-color: green;
+}
+
+.panel {
+  width: 100px;
+  height: 900px;
+  float: left;
+  background-color: #123456;
+}
+
+.tresc {
+  width: 640px;
+  height: 900px;
+  float: left;
+  background-color: #654321;
+}

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="26" version="2.0">
+<workbenchAdvisor/>
+<window height="900" maximized="true" width="1080" x="1680" y="621">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="0" y="26"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="0" y="26"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="0" y="26"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="0" y="26"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="172" y="26"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.css.core.csssource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.php.editor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.html.core.htmlsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1361990072434" focus="true" label="Workspace - PHP">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.internal.EditorStack@1e79a00" ratio="0.5435154" ratioLeft="637" ratioRight="535" relationship="2" relative="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" partName="index.html" path="/mnt/datas/Programming/PHPiMySQL/php_projects/Magda Lisinska/index.html" title="index.html" tooltip="Magda Lisinska/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Magda Lisinska/index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="631" selectionTopPixel="458"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="kontakt.html" partName="kontakt.html" path="/mnt/datas/Programming/PHPiMySQL/php_projects/Magda Lisinska/kontakt.html" title="kontakt.html" tooltip="Magda Lisinska/kontakt.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Magda Lisinska/kontakt.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="972" selectionTopPixel="322"/>
+</editor>
+<editor focus="true" id="org.eclipse.wst.css.core.csssource.source" name="style.css" partName="style.css" path="/mnt/datas/Programming/PHPiMySQL/php_projects/Magda Lisinska/css/style.css" title="style.css" tooltip="Magda Lisinska/css/style.css" workbook="org.eclipse.ui.internal.EditorStack@1e79a00">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Magda Lisinska/css/style.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2696" selectionTopPixel="2388"/>
+</editor>
+<editor id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="script.js" partName="script.js" path="/mnt/datas/Programming/PHPiMySQL/php_projects/Magda Lisinska/js/script.js" title="script.js" tooltip="Magda Lisinska/js/script.js" workbook="org.eclipse.ui.internal.EditorStack@1e79a00">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Magda Lisinska/js/script.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="184" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Warnings (8 items)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="547" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="98" org.eclipse.ui.ide.severityAndDescriptionField="314"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.php.ui.explorer" partName="PHP Explorer">
+<viewState group_libraries="1" isWindowWorkingSet="false" layout="1" linkWithEditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.php.ui.explorer.EmptyInnerPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.PHPHTMLFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.NonScriptElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.NonScriptProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.RSEProjectFilter" isEnabled="true"/>
+<child filterId="org.eclipse.php.ui.explorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.ContainMembersFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.UseStatementFilter" isEnabled="true"/>
+<child filterId="org.eclipse.php.ui.explorer.SMFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.DotFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.php.ui.explorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.ClosedProjectsFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.php.ui.functions" partName="PHP Functions">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.php.ui.explorer" activePerspective="org.eclipse.php.perspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.php.internal.ui.PHPPerspectiveFactory" id="org.eclipse.php.perspective" label="PHP"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.php.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.php.ui.PHPActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.php.ui.text.php.actionSet.presentation"/>
+<show_view_action id="org.eclipse.php.ui.explorer"/>
+<show_view_action id="org.eclipse.dltk.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.php.ui.functions"/>
+<show_view_action id="org.eclipse.php.ui.projectOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.zend.php.zendserver.deployment.ui.targetsview"/>
+<new_wizard_action id="org.eclipse.php.ui.wizards.PHPProjectCreationWizard"/>
+<new_wizard_action id="org.eclipse.php.ui.wizards.PHPFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.php.ui.wizards.UntitledPHPDocumentWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.wst.css.ui.internal.wizard.NewCSSWizard"/>
+<new_wizard_action id="org.eclipse.wst.html.ui.internal.wizard.NewHTMLWizard"/>
+<new_wizard_action id="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.php.perspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.php.ui.explorer"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="bottom" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.TaskList" ratio="0.3"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="right" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+<view id="org.eclipse.php.ui.functions" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.php.ui.explorer" appearance="2" expanded="2">
+<page content="org.eclipse.php.ui.explorer" label="PHP Explorer"/>
+<page content="org.eclipse.dltk.ui.TypeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.21980198" ratioLeft="222" ratioRight="788" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottom" ratio="0.74925375" ratioLeft="502" ratioRight="168" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.75" ratioLeft="591" ratioRight="197" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.php.ui.projectOutline" label="LabelNotFound"/>
+<page content="org.eclipse.php.ui.functions" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/Magda Lisinska/kontakt.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/Magda Lisinska/js/script.js"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" path="/Magda Lisinska/index.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" path="/Magda Lisinska/css/style.css"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" path="/Magda Lisinska/js/script.js"/>
+</editors>
+<item historyLabel="style.css" index="3">
+<position/>
+</item>
+<item historyLabel="index.html" index="2">
+<position info="not_deleted" x="3171" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position/>
+</item>
+<item historyLabel="index.html" index="2">
+<position/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="2978" y="0"/>
+</item>
+<item historyLabel="index.html" index="2">
+<position info="not_deleted" x="2978" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="2704" y="0"/>
+</item>
+<item historyLabel="index.html" index="2">
+<position info="not_deleted" x="3151" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="2975" y="0"/>
+</item>
+<item historyLabel="index.html" index="2">
+<position info="not_deleted" x="3108" y="43"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="2975" y="0"/>
+</item>
+<item historyLabel="index.html" index="2">
+<position info="not_deleted" x="3098" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="3096" y="0"/>
+</item>
+<item historyLabel="index.html" index="2">
+<position info="not_deleted" x="3098" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="2399" y="0"/>
+</item>
+<item historyLabel="index.html" index="2">
+<position info="not_deleted" x="2875" y="296"/>
+</item>
+<item historyLabel="kontakt.html" index="0">
+<position info="not_deleted" x="2455" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="2559" y="0"/>
+</item>
+<item historyLabel="kontakt.html" index="0">
+<position info="not_deleted" x="3543" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="292" y="0"/>
+</item>
+<item historyLabel="kontakt.html" index="0">
+<position info="not_deleted" x="3564" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="170" y="0"/>
+</item>
+<item historyLabel="kontakt.html" index="0">
+<position info="not_deleted" x="3188" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="2557" y="0"/>
+</item>
+<item historyLabel="kontakt.html" index="0">
+<position info="not_deleted" x="3169" y="1"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position/>
+</item>
+<item historyLabel="kontakt.html" index="0">
+<position info="not_deleted" x="3613" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="2562" y="0"/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="223" y="0"/>
+</item>
+<item historyLabel="kontakt.html" index="0">
+<position info="not_deleted" x="4010" y="0"/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="223" y="0"/>
+</item>
+<item historyLabel="kontakt.html" index="0">
+<position info="not_deleted" x="4010" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="10" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="86" y="0"/>
+</item>
+<item historyLabel="kontakt.html" index="0">
+<position info="not_deleted" x="2369" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="86" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position/>
+</item>
+<item historyLabel="script.js" index="4">
+<position/>
+</item>
+<item historyLabel="kontakt.html" index="0">
+<position info="not_deleted" x="972" y="0"/>
+</item>
+<item historyLabel="index.html" index="2">
+<position info="not_deleted" x="631" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="102" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="65" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="96" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position/>
+</item>
+<item historyLabel="script.js" index="4">
+<position/>
+</item>
+<item historyLabel="script.js" index="4">
+<position/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="184" y="0"/>
+</item>
+<item historyLabel="style.css" index="3">
+<position info="not_deleted" x="2696" y="0"/>
+</item>
+<item active="true" historyLabel="index.html" index="2">
+<position info="not_deleted" x="631" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="topLeft"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="right"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="bottom"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="script.js" tooltip="Magda Lisinska/js/script.js">
+<persistable path="/Magda Lisinska/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="kontakt.html" tooltip="Magda Lisinska/kontakt.html">
+<persistable path="/Magda Lisinska/kontakt.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" name="style.css" tooltip="Magda Lisinska/css/style.css">
+<persistable path="/Magda Lisinska/css/style.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="html5shiv.js" tooltip="Magda Lisinska/js/html5shiv.js">
+<persistable path="/Magda Lisinska/js/html5shiv.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" tooltip="Magda Lisinska/index.html">
+<persistable path="/Magda Lisinska/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.jsdt.ui.CompilationUnitEditor" name="skrypt.js" tooltip="dwudzielna strona - test/skrypt.js">
+<persistable path="/dwudzielna strona - test/skrypt.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" name="style.css" tooltip="dwudzielna strona - test/style.css">
+<persistable path="/dwudzielna strona - test/style.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" tooltip="dwudzielna strona - test/index.html">
+<persistable path="/dwudzielna strona - test/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" name="style.css" tooltip="php 001 - formularz/style.css">
+<persistable path="/php 001 - formularz/style.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="formularz.html" tooltip="php 001 - formularz/formularz.html">
+<persistable path="/php 001 - formularz/formularz.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.css.core.csssource.source" name="style.css" tooltip="php 004 - formularz + pliki/style.css">
+<persistable path="/php 004 - formularz + pliki/style.css"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="przetworzzamowienie.php" tooltip="php 004 - formularz + pliki/przetworzzamowienie.php">
+<persistable path="/php 004 - formularz + pliki/przetworzzamowienie.php"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" tooltip="php 004 - formularz + pliki/index.html">
+<persistable path="/php 004 - formularz + pliki/index.html"/>
+</file>
+<file factoryID="org.zend.php.common.welcome.WelcomePageEditorInput" id="org.zend.customization.welcome.welcomePageEditor" name="Welcome" tooltip="Welcome">
+<persistable categories="true" discoveryFile="/pdt_directory.xml" id="welcomeBrowser" progressDialogMsg="Upgrading to Zend Studio" style="16" url="file:/home/gabr/Pobrane/eclipse-php/plugins/org.zend.php.common_9.0.2.201206111209/resources/welcome/PDT-welcome-page.html"/>
+</file>
+</mruList>
+</workbench>

@@ -1,0 +1,13 @@
+$(document).ready(function() {
+	var height = $("#footer").position() - $("#menu-body").position();
+	console.log(height);
+	$("#menu").css("height", height);
+    $("#menu-body").css("height", height - 40);
+});
+
+/*$(window).load(function() {
+    var content_height = $("#content").outerHeight(true);
+    console.log(content_height);
+    $("#menu").css("height", content_height);
+    $("#menu-body").css("height",content_height - 40);
+});*/

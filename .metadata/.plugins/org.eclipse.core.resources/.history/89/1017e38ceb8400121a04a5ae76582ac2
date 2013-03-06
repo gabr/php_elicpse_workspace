@@ -1,0 +1,4 @@
+$(document).ready(function() {
+    var content_height = $("#content").css("height").replace("px", "");
+    $("#menu").css("height", content_height);
+});

@@ -1,0 +1,5 @@
+$(document).ready(function() {
+    var content_height = $("#content").outerHeight();
+    console.log(content_height);
+    $("#menu-body").css("height", content_height);
+});

@@ -1,0 +1,12 @@
+$(document).ready(function() {
+	var height = $("#footer").offset().top - $("#menu-body").offset().top;
+	$("#menu").css("height", height);
+    $("#menu-body").css("height", height);
+});
+
+/*$(window).load(function() {
+    var content_height = $("#content").outerHeight(true);
+    console.log(content_height);
+    $("#menu").css("height", content_height);
+    $("#menu-body").css("height",content_height - 40);
+});*/

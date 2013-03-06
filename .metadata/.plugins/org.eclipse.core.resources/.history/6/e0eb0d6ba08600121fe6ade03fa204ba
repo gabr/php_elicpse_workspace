@@ -1,0 +1,15 @@
+$(document).ready(function() {
+	var height = $("#footer").offset().top - $("#menu-body").offset().y;
+	console.log("footer y: "+$("#footer").offset().top);
+	console.log("menu-body y: "+$("#menu-body").offset().top);
+	console.log("wysokosc: "+height);
+	$("#menu").css("height", height);
+    $("#menu-body").css("height", height - 40);
+});
+
+/*$(window).load(function() {
+    var content_height = $("#content").outerHeight(true);
+    console.log(content_height);
+    $("#menu").css("height", content_height);
+    $("#menu-body").css("height",content_height - 40);
+});*/
