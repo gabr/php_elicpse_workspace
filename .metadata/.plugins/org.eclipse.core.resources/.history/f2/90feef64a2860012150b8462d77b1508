@@ -1,0 +1,9 @@
+$(document).ready(function() {
+	var height = $("#footer").offset().top - $("#menu-body").offset().top;
+	
+	console.log("menu pos: "+$("#menu-body").offset().top);
+	console.log("footer pos: "+$("#footer").offset().top);
+	
+	$("#menu").css("height", height);
+    $("#menu-body").css("height", height);
+});

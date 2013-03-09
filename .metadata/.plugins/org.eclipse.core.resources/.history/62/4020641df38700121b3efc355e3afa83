@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+        <title>Magdalena Lisińska</title>
+        <!--
+        <meta name="description" content="Add your sites description here">
+        <meta name="keywords" content="Add,your,site,keywords,here">
+        <link rel="icon" type="image/x-icon" href="../images/favicon.ico">
+        -->
+        <link rel="stylesheet" type="text/css" href="css/reset.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
+        <!-- <script src="js/jquery-1.9.1.js"></script>
+        <script src="js/script.js"></script> -->
+        <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+    
+    <body>
+        <!-- head -->
+        <div id="header">
+            <a href="index.html" id="glasses"></a>
+            <a href="index.html" id="header-title">
+                <p id="title">Magdalena Lisińska</p>
+                <p id="slogan">Doradztwo i Pośrednictwo finansowo-ubezpieczeniowe</p>
+            </a>
+            <div class="clear"></div>
+        </div>
+        
+        <!-- body -->
+        <div id="body">
+            <!-- menu -->
+            <div id="menu">
+                <div id="menu-head"></div>
+                <div id="menu-body">
+                    <div id="menu-margin"></div>
+                    <ul>
+                        <li><a href="index.html">o mnie</a></li>
+                        <li class="line">................</li>
+                        <li><a href="#">współpraca</a></li>
+                        <li class="line">................</li>
+                        <li><a href="#">kontakt</a></li>
+                        <li class="line">................</li>
+                    </ul>
+                </div>
+            </div>
+            <!-- content -->
+            <div id="content">
+                <div>
+                    <h1>kontakt</h1>
+                    <div class="line">.....................................................................</div>
+                    <br>
+                    <p>Magdalena Lisińska</p>
+                    
+                    <p>Doradztwo i Pośrednictwo finansowo-ubezpieczeniowe
+                    <br>Numer licencji KNUiF 11197995/P.</p>
+                    
+                    <p>Arda Ubezpieczenia
+                    <br>ul.Tarnogórska 6/1
+                    <br>44-100 Gliwice</p>
+                    
+                    <p>tel. 203 077 134
+                    <br>e-mail: ubezpieczenia.magda@gmail.com</p>
+                    
+                    <iframe width="550" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://mapy.google.pl/maps?f=q&amp;source=s_q&amp;hl=pl&amp;geocode=&amp;q=ul.Tarnog%C3%B3rska+6%2F1+44-100+Gliwice&amp;aq=&amp;sll=50.246665,19.004371&amp;sspn=3.049226,6.174316&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Tarnog%C3%B3rska+6,+44-102+Gliwice,+%C5%9Bl%C4%85skie&amp;ll=50.306665,18.681908&amp;spn=0.024668,0.047121&amp;z=14&amp;iwloc=A&amp;output=embed">
+                    </iframe>
+                    <br />
+                    <a id="google-maps" href="https://mapy.google.pl/maps?f=q&amp;source=embed&amp;hl=pl&amp;geocode=&amp;q=ul.Tarnog%C3%B3rska+6%2F1+44-100+Gliwice&amp;aq=&amp;sll=50.246665,19.004371&amp;sspn=3.049226,6.174316&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Tarnog%C3%B3rska+6,+44-102+Gliwice,+%C5%9Bl%C4%85skie&amp;ll=50.306665,18.681908&amp;spn=0.024668,0.047121&amp;z=14&amp;iwloc=A">
+                    zobacz na maps.google.pl
+                    </a>
+                </div>
+            </div>
+            <div class="clear"></div>
+            
+            <!-- footer -->
+            <div id="footer">
+                <div id="left-footer"><p>2013</p></div>
+                <div id="right-footer"><p>ireneuszgabrys@gmail.com & arkadiuszgabrys@gmail.com&ensp;&ensp;&ensp;&ensp;</p></div>
+                <div class="clear"></div>
+            </div>
+            
+        </div>
+    </body>
+</html>

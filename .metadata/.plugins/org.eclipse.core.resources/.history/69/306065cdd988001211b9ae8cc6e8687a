@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Magdalena Lisińska</title>
+<!--
+		<meta name="description" content="Add your sites description here">
+		<meta name="keywords" content="Add,your,site,keywords,here">
+		<link rel="icon" type="image/x-icon" href="../images/favicon.ico">
+		-->
+<link rel="stylesheet" type="text/css" href="css/reset.css"
+  media="screen">
+<link rel="stylesheet" type="text/css" href="css/style.css"
+  media="screen">
+<!-- <script src="js/jquery-1.9.1.js"></script>
+        <script src="js/script.js"></script> -->
+<!--[if lt IE 9]>
+		<script src="js/html5shiv.js"></script>
+		<![endif]-->
+</head>
+
+<body>
+  <!-- head -->
+  <div id="header">
+    <a href="index.html" id="glasses"></a> <a href="index.html"
+      id="header-title">
+      <p id="title">Magdalena Lisińska</p>
+      <p id="slogan">Doradztwo i Pośrednictwo
+        Finansowo-Ubezpieczeniowe</p>
+    </a>
+    <div class="clear"></div>
+  </div>
+
+  <!-- body -->
+  <div id="body">
+    <!-- menu -->
+    <div id="menu">
+      <div id="menu-head"></div>
+      <div id="menu-body" style="height: 1160px">
+        <div id="menu-margin"></div>
+        <ul>
+          <li><a href="#">o mnie</a></li>
+          <li class="line">................</li>
+          <li><a href="oferta.html">oferta</a></li>
+          <li class="line">................</li>
+          <li><a href="kontakt.html">kontakt</a></li>
+          <li class="line">................</li>
+        </ul>
+      </div>
+    </div>
+    <!-- content -->
+    <div id="content" style="height: 1180px">
+      <div>
+        <h1>o mnie</h1>
+        <div class="line">.....................................................................</div>
+        <img src="images/magda.jpg" />
+        <p>
+          Nazywam się Magdalena Lisińska,<br>świadczę usługi
+          doradztwa w zakresie ubezpieczeń od 7 lat.
+        </p>
+        <p>Zajmuję się przede wszystkim dopasowaniem ofert
+          Towarzystw Ubezpieczeniowych pod kontem konkretnego
+          klienta,jego oczekiwań i oczywiście zasobności portfela.
+          Obsługa dla mnie nie kończy się w momencie podpisania umowy
+          ale jestem do Państwa dyspozycji również w trakcie jej trwania
+          oraz służę pomocą w przypadku wszelkich wątpliwości związanych
+          z kwestą ubezpieczeń ogólnie.</p>
+        <p>Cały czas się szkolę i podnosze swoje kwalifikacje aby
+          móc Państwu oferować tylko najlepsze i skuteczne rozwiazania.
+          Moją dewizją jest to aby obsługiwać Państwa w ten sposób w
+          jaki sama bym chciala być obsługiwana.</p>
+        <p>Na moją ofertę składają się :</p>
+        <ul>
+          <li><a target="_blank"
+            href="http://www.grupa-arda.pl/ubezpieczenia/ubezpieczenia-oc.html?phpMyAdmin=3N6bEaCYBK2Jq4cIqrYr1X8wqk0">Ubezpieczenie
+              OC</a>
+            <p>Które jest jednym z obowiązkowych ubezpieczeń
+              komunikacyjnych. Na mocy ustawy o działalności
+              ubezpieczeniowej, każdy kto posiada pojazd podlegający
+              rejestracji musi wykupić polisę OC.</p></li>
+          <li><a target="_blank"
+            href="http://www.grupa-arda.pl/ubezpieczenia/ubezpieczenia-autocasco.html?phpMyAdmin=3N6bEaCYBK2Jq4cIqrYr1X8wqk0">Autocasco</a>
+            <p>Należące do grupy ubezpieczeń komunikacyjnych
+              dobrowolnych. Zawarcie umowy zależy wyłącznie od
+              właściciela pojazdu. Przedmiotem umowy są pojazdy
+              zarejestrowane w RP zgodnie z przepisami ustawy prawa o
+              ruchu drogowym.</p></li>
+          <li><a target="_blank"
+            href="http://www.grupa-arda.pl/ubezpieczenia/ubezpieczenia-assistance.html?phpMyAdmin=3N6bEaCYBK2Jq4cIqrYr1X8wqk0">Assistance</a>
+            <p>Rodzaj ubezpieczenia w którym zakład ubezpieczeń
+              zobowiązuje się do świadczenia pomocy w określonych
+              wypadkach, np. awarii samochodu czy jego rozbicia,
+              polegającej na przykład na naprawie lub holowaniu pojazdu.</p>
+          </li>
+          <li><a target="_blank"
+            href="http://www.grupa-arda.pl/ubezpieczenia/ubezpieczenia-nnw.html?phpMyAdmin=3N6bEaCYBK2Jq4cIqrYr1X8wqk0">Ubezpieczenie
+              NNW</a>
+            <p>Zawierane na okres 12 miesięcy ubezpieczenie
+              dobrowolne. Obejmuje wypadki powstałe na terenie RP oraz
+              poza jej granicami. Ubezpieczeniem objęci są wszyscy
+              podróżujący tj. kierowca i pasażerowie.</p></li>
+          <li><a target="_blank"
+            href="http://www.grupa-arda.pl/ubezpieczenia/ubezpieczenia-mienia.html?phpMyAdmin=3N6bEaCYBK2Jq4cIqrYr1X8wqk0">Ubezpieczenia
+              mienia</a>
+            <p>Pożar, zalanie, kradzież oraz wiele innych
+              nieszczęśliwych zdarzeń, które mogą spotkać Twój dom lub
+              mieszkanie. Warto zabezpieczyć się zawczasu, gdyż koszty
+              ubezpieczeń są niewspółmiernie niskie w stosunku do
+              wysokości strat powstałych na wskutek tych zdarzeń.</p></li>
+        </ul>
+      </div>
+    </div>
+    <div class="clear"></div>
+
+    <!-- footer -->
+    <div id="footer">
+      <div id="left-footer">
+        <p>2013</p>
+      </div>
+      <div id="right-footer">
+        <p>ireneuszgabrys@gmail.com &amp;
+          arkadiuszgabrys@gmail.com&ensp;&ensp;&ensp;&ensp;</p>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+  </div>
+
+</body>
+</html>

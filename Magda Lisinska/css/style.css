@@ -31,7 +31,6 @@ h1 {
 }
 
 img {
-  height: 290px;
   float: left;
   margin: 5px 10px 0px 0px;
   border: 1px solid #363636;
@@ -190,6 +189,10 @@ img {
 #google-maps {
   float: right;
   margin-right: 6px;
+}
+
+#logos img {
+  margin: 10px 6px;
 }
 
 /* Footer */
